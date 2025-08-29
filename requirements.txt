@@ -1,0 +1,37 @@
+
+# Core
+numpy
+pandas
+scikit-learn
+xgboost
+scipy
+networkx
+uvicorn
+fastapi
+pydantic
+joblib
+
+
+# Deep Learning (optional but recommended)
+torch
+# If using CUDA, install the correct torch wheels per your CUDA version.
+
+
+# Graph (optional)
+torch-geometric
+# Depending on your system you may also need torch-scatter, torch-sparse, etc.
+
+
+# NLP
+transformers
+sentencepiece
+
+
+# XAI
+shap
+matplotlib
+
+
+# Audio/biometrics (optional)
+librosa
+soundfile
